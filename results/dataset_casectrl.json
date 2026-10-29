@@ -1,0 +1,283 @@
+[
+ {
+  "acc": "GSE203332",
+  "title": "Epigenome-wide association study of human frontal cortex identifies differential methylation in Lewy body pathology",
+  "n": 492,
+  "plat": "GPL21145",
+  "group_field": "char[9]",
+  "groups": {
+   "clinical_diagnosis: control": 97,
+   "clinical_diagnosis: NA": 42,
+   "clinical_diagnosis: PDD": 77,
+   "clinical_diagnosis: PD": 64,
+   "clinical_diagnosis: AD": 87,
+   "clinical_diagnosis: dementia_NOS": 34,
+   "clinical_diagnosis: DLB": 45,
+   "clinical_diagnosis: stroke": 1,
+   "clinical_diagnosis: FTD": 6,
+   "clinical_diagnosis: brain_metastases": 1,
+   "clinical_diagnosis: VD": 17,
+   "clinical_diagnosis: normal_pressure_hydrocephalus": 1,
+   "clinical_diagnosis: PSP": 1,
+   "clinical_diagnosis: MSA": 6,
+   "clinical_diagnosis: parkinsonism_NOS": 6,
+   "clinical_diagnosis: asymmetrical_cortical_degenerative_syndrome": 1,
+   "clinical_diagnosis: epilepsy": 1,
+   "clinical_diagnosis: chronic_subdural_hematoma": 1,
+   "clinical_diagnosis: depression": 2,
+   "clinical_diagnosis: other": 1,
+   "clinical_diagnosis: alcoholic_encephalopathy": 1
+  },
+  "n_char": 17
+ },
+ {
+  "acc": "GSE256068",
+  "title": "Identification of gene regulatory networks affected across drug-resistant epilepsies",
+  "n": 162,
+  "plat": "GPL24676",
+  "group_field": "char[3]",
+  "groups": {
+   "disease state: TSC": 21,
+   "disease state: FCD2a": 17,
+   "disease state: ControlCortex": 14,
+   "disease state: FCD2b": 33,
+   "disease state: TLE-HS": 64,
+   "disease state: ControlHippocampus": 13
+  },
+  "n_char": 5
+ },
+ {
+  "acc": "GSE186334",
+  "title": "Compartment-specific total RNA profile of Hippocampal and Cortical cells from Mesial Temporal Lobe Epilepsy tissue",
+  "n": 68,
+  "plat": "GPL20301",
+  "group_field": "char[1]",
+  "groups": {
+   "sample type: Postmortem controls": 22,
+   "sample type: mTLE non-HS": 34,
+   "sample type: mTLE+HS": 12
+  },
+  "n_char": 3
+ },
+ {
+  "acc": "GSE245228",
+  "title": "Compartment-specific small RNA sequencing profile of Hippocampal and Cortical cells from Mesial Temporal Lobe Epilepsy tissue",
+  "n": 68,
+  "plat": "GPL20301",
+  "group_field": "char[3]",
+  "groups": {
+   "disease state: Postmortem controls": 22,
+   "disease state: mTLE non-HS": 34,
+   "disease state: mTLE+HS": 12
+  },
+  "n_char": 5
+ },
+ {
+  "acc": "GSE128299",
+  "title": "Genomic DNA methylation distinguishes human FCD subtypes",
+  "n": 53,
+  "plat": "GPL10999",
+  "group_field": "char[0]",
+  "groups": {
+   "disease: FCD": 31,
+   "disease: Non-epilepsy": 12,
+   "disease: HS - Epilepsy": 10
+  },
+  "n_char": 3
+ },
+ {
+  "acc": "GSE168375",
+  "title": "Human Astrocytes Exhibit Tumor Microenvironment, Age- and Sex-Related Transcriptomic Signatures",
+  "n": 49,
+  "plat": "GPL20301",
+  "group_field": "char[2]",
+  "groups": {
+   "patient diagnosis: peritumor": 6,
+   "patient diagnosis: epilepsy": 31,
+   "patient diagnosis: control": 12
+  },
+  "n_char": 3
+ },
+ {
+  "acc": "GSE94108",
+  "title": "Cerebrospinal fluid microRNAs are potential biomarkers of temporal lobe epilepsy and status epilepticus",
+  "n": 45,
+  "plat": "GPL22992",
+  "group_field": "char[0]",
+  "groups": {
+   "diagnosis: Control headache": 15,
+   "diagnosis: Temporal lobe epilepsy": 15,
+   "diagnosis: Status epilepticus": 15
+  },
+  "n_char": 4
+ },
+ {
+  "acc": "GSE244091",
+  "title": "Integrated multi-omics reveals mTOR-LPL-driven dysregulated lipid metabolism induces neuronal hyperexcitability in human microglia of tuberous scleros",
+  "n": 40,
+  "plat": "GPL24676",
+  "group_field": "char[1]",
+  "groups": {
+   "genotype: healthy control": 11,
+   "genotype: TSC2 mutation": 8,
+   "treatment: treated with healthy control microglia conditioned medium": 6,
+   "treatment: treated with TSC2 mutated microglia conditioned medium": 6,
+   "genotype: TSC2, c.G4514C (Homozygous)": 9
+  },
+  "n_char": 2
+ },
+ {
+  "acc": "GSE134697",
+  "title": "Hippocampal and neocortex transcriptome sequencing data from 17 mesial temporal lobe epilepsy patients and 2 neocortex samples from neurologically hea",
+  "n": 36,
+  "plat": "GPL16791",
+  "group_field": "char[0]",
+  "groups": {
+   "condition: mesial temporal lobe epilepsy": 34,
+   "condition: without epilepsy": 2
+  },
+  "n_char": 3
+ },
+ {
+  "acc": "GSE193842",
+  "title": "Circulating MicroRNAs From Serum Small Extracellular Vesicles as Potential diagnostic Biomarkers in Pediatric Epilepsy and Drug-Resistant Epilepsy",
+  "n": 35,
+  "plat": "GPL20301",
+  "group_field": "char[2]",
+  "groups": {
+   "disease state: pediatric epilepsy": 25,
+   "disease state: healthy": 10
+  },
+  "n_char": 3
+ },
+ {
+  "acc": "GSE213488",
+  "title": "Transcriptome analyses of the cortex and white matter of focal cortical dysplasia type II human samples: novel insights into disease mechanisms and co",
+  "n": 35,
+  "plat": "GPL16791",
+  "group_field": "char[1]",
+  "groups": {
+   "disease state: FCD IIa": 14,
+   "disease state: FCD IIb": 13,
+   "disease state: Control (autopsy)": 8
+  },
+  "n_char": 2
+ },
+ {
+  "acc": "GSE168916",
+  "title": "Epilepsy progression mediates cumulative DNA methylation changes in inflammatory genes.",
+  "n": 33,
+  "plat": "GPL21145",
+  "group_field": "char[2]",
+  "groups": {
+   "disease state: MTLE-HS": 19,
+   "disease state: Non-epileptic control": 14
+  },
+  "n_char": 4
+ },
+ {
+  "acc": "GSE128300",
+  "title": "Transcriptomes distinguish human FCD subtypes",
+  "n": 28,
+  "plat": "GPL10999",
+  "group_field": "char[0]",
+  "groups": {
+   "disease: FCD": 15,
+   "disease: Non-epilepsy": 8,
+   "disease: HS - Epilepsy": 5
+  },
+  "n_char": 3
+ },
+ {
+  "acc": "GSE99455",
+  "title": "Next Generation Sequencing (NGS) of miRNAs in human hippocampal tissues",
+  "n": 24,
+  "plat": "GPL18573",
+  "group_field": "char[0]",
+  "groups": {
+   "subject: mTLE+HS patient": 16,
+   "subject: control": 8
+  },
+  "n_char": 1
+ },
+ {
+  "acc": "GSE188219",
+  "title": "Extracellular vesicles underlie cell-type-specific crosstalk during human cortical development and disease",
+  "n": 15,
+  "plat": "GPL30882",
+  "group_field": "char[1]",
+  "groups": {
+   "treatment: NPCs NOT treated": 3,
+   "treatment: NPCs acutely treated (12 hours) with Extracellular vesicles (EVs) purified by the conditioned medium of dorsally patterned human spheroids originated from control-iPSCs cells.": 3,
+   "treatment: NPCs acutely treated (12 hours) with Extracellular vesicles (EVs) purified by the conditioned medium of ventrally patterned human spheroids originated from control-iPSCs cells.": 3,
+   "treatment: NPCs acutely treated (12 hours) with Extracellular vesicles (EVs) purified by the conditioned medium of ventrally patterned human spheroids originated from EPM1 patients-iPSCs cells.": 3,
+   "treatment: NPCs acutely treated (12 hours) with Extracellular vesicles (EVs) purified by the conditioned medium of dorsally patterned human spheroids originated from EPM1 patients-iPSCs cells.": 3
+  },
+  "n_char": 2
+ },
+ {
+  "acc": "GSE208574",
+  "title": "Modeling 16p13.11 deletions in patient stem cell derived neurons",
+  "n": 15,
+  "plat": "GPL23934",
+  "group_field": "char[0]",
+  "groups": {
+   "group: Proband": 6,
+   "group: Control": 6,
+   "group: Patient": 3
+  },
+  "n_char": 3
+ },
+ {
+  "acc": "GSE298284",
+  "title": "Molecular and developmental deficits in Smith-Magenis syndrome human stem cell-derived cortical neural models",
+  "n": 15,
+  "plat": "GPL24676",
+  "group_field": "char[1]",
+  "groups": {
+   "disease: healthy": 7,
+   "disease: Smith-Magenis Syndrome": 8
+  },
+  "n_char": 5
+ },
+ {
+  "acc": "GSE97365",
+  "title": "MicroRNA expression data from human brain tissue with focal cortical dyplasia, type II",
+  "n": 14,
+  "plat": "GPL8786",
+  "group_field": "char[0]",
+  "groups": {
+   "disease state: normal control": 5,
+   "disease state: focal cortical dyplasia, type II": 9
+  },
+  "n_char": 5
+ },
+ {
+  "acc": "GSE272142",
+  "title": "Genome‑wideBrain DNAMethylationandGeneExpression Patterns Unravel Epigenetic Reprogramming in Mesial Temporal Lobe Epilepsy",
+  "n": 12,
+  "plat": "GPL16791",
+  "group_field": "char[2]",
+  "groups": {
+   "disease state: Temporal lobe epilepsy": 6,
+   "disease state: control": 6
+  },
+  "n_char": 3
+ },
+ {
+  "acc": "GSE328077",
+  "title": "Cultured ex vivo human brain tissue maintains cell-type transcriptional identities",
+  "n": 12,
+  "plat": "GPL24676",
+  "group_field": "char[3]",
+  "groups": {
+   "pathology: Epilepsy; dysplastic hemisphere with migrational abnormalities": 2,
+   "pathology: Epilepsy; Sturge-Weber syndrome": 2,
+   "pathology: Tissue overlying insular glioma": 2,
+   "pathology: Newly diagnosed IDH wild-type glioblastoma": 2,
+   "pathology: Recurrent IDH wild-type glioblastoma": 2,
+   "pathology: Recurrent SHH medulloblastoma": 2
+  },
+  "n_char": 6
+ }
+]

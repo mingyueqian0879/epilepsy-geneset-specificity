@@ -1,0 +1,24 @@
+# data and intermediates are never committed
+data/*
+!data/README.md
+out/
+figures/
+supplementary/
+
+# environment dumps
+environment/sessionInfo.txt
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+
+# os
+.DS_Store
+Thumbs.db

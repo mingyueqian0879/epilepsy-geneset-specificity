@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite the manuscript and the archived release."
+title: "Specificity-testing gene-set associations in epilepsy transcriptomics: a calibrated permutation pipeline and reporting standard"
+type: software
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/mingyueqian0879/epilepsy-geneset-specificity"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-29"
+preferred-citation:
+  type: article
+  title: "Specificity-testing gene-set associations in epilepsy transcriptomics: a calibrated permutation pipeline and reporting standard"
+  journal: "Briefings in Bioinformatics"
+  authors:
+    - family-names: "TODO"
+      given-names: "TODO"
